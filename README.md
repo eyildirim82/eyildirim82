@@ -9,7 +9,7 @@ I build production software focused on real-world business operations, internal 
 - 🏭 Business and inventory systems for industrial operations
 - ✈️ Digital platforms and member services for TALPA
 - 🤖 AI-assisted software development workflows
-- 🧠 RAG and LLM reliability research
+- 🧠 LLM reliability and clinical hallucination detection research
 
 ## Tech
 
@@ -21,9 +21,9 @@ Full-stack engineering, AI-assisted development, business process automation and
 
 ## Selected work
 
-- **Inventory Management System** — full-stack inventory and stock movement application built with React, TypeScript, Node.js, PostgreSQL, Prisma and Docker
-- **Financial Management System** — application for income/expense tracking, customer accounts, reporting and data import workflows
-- **RAG Hallucination Detection** — academic research on zero-shot hallucination detection using retrieval perturbation and response consistency
+- [**Inventory Management System**](https://github.com/eyildirim82/stok) — full-stack inventory and stock movement application built with React, TypeScript, Node.js, PostgreSQL, Prisma and Docker
+- [**Financial Management System**](https://github.com/eyildirim82/Finansal-Y-netim-Sistemi) — application for income/expense tracking, customer accounts, reporting and data import workflows
+- [**Clinical Hallucination Detection**](./projects/clinical-hallucination-detection.md) — academic research on graph-based detection of unsupported clinical facts in LLM-generated medical QA answers
 
 ## Connect
 
