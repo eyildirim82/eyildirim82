@@ -14,9 +14,14 @@ I build full-stack software for real-world business operations, internal tools a
 ## Selected work
 
 - [**babu-TV**](https://github.com/eyildirim82/babu-TV) — privacy-focused Samsung Tizen live-TV application derived from EN TV Player and substantially extended with remote-first navigation, provider integrations and encrypted device pairing
-- [**Clinical Hallucination Detection Research**](./projects/clinical-hallucination-detection.md) — event-oriented clinical extraction pipeline being developed as the foundation for graph-based hallucination detection in LLM-generated medical QA
-- [**adaptive-superpowers**](https://github.com/eyildirim82/adaptive-superpowers) — risk-adaptive engineering workflow for coding agents with execution profiles, verification requirements and human boundaries
-- [**Inventory Management System**](https://github.com/eyildirim82/stok) — full-stack inventory and stock movement application built with React, TypeScript, Node.js, PostgreSQL, Prisma and Docker
+- [**Inventory Management System**](https://github.com/eyildirim82/stok) — full-stack inventory and stock-movement application built with React, TypeScript, Express, Prisma, PostgreSQL and Docker, with transaction-safe stock updates and verified portfolio screenshots
+- [**Financial Management System**](https://github.com/eyildirim82/Finansal-Y-netim-Sistemi) — finance and receivables prototype with React, TypeScript/Express, Prisma/PostgreSQL, imports, reporting, banking workflows and automated verification
+- [**Database Systems Project**](https://github.com/eyildirim82/DatabaseProject) — collaborative CSE3055 project combining a normalized Microsoft SQL Server schema with an ASP.NET Core MVC application and ADO.NET-style data access
+- [**Clinical Hallucination Detection Research**](./projects/clinical-hallucination-detection.md) — private academic research implementation using MedGemma and event-oriented clinical extraction as the foundation for graph-based hallucination detection in LLM-generated medical QA
+
+## Other technical work
+
+- [**adaptive-superpowers**](https://github.com/eyildirim82/adaptive-superpowers) — risk-adaptive fork of Superpowers v6.3.0 for coding agents, adding FAST / STANDARD / CRITICAL execution profiles, verification requirements and authorization boundaries
 
 ## Professional work
 
