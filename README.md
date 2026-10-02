@@ -12,9 +12,9 @@ I build full-stack systems for business operations and member-facing workflows, 
 
 ## Selected work
 
-- [**Inventory Management System**](https://github.com/eyildirim82/stok) — original full-stack inventory application using React/TypeScript, Express, Prisma and PostgreSQL, with transaction-safe stock movements, integration tests, Docker deployment and verified screenshots
+- [**Inventory Management System**](https://github.com/eyildirim82/stok) — original full-stack inventory application using React/TypeScript, Express, Prisma and PostgreSQL, with transaction-safe stock movements, integration tests, a Dockerized deployment setup and verified screenshots
 - [**Financial Management System**](https://github.com/eyildirim82/Finansal-Y-netim-Sistemi) — active finance and receivables prototype with modular TypeScript/Express APIs, Prisma/PostgreSQL, data imports, reporting workflows and automated verification
-- [**BabuşTV**](https://github.com/eyildirim82/babu-TV) — Samsung Tizen live-TV application derived from EN TV Player and substantially extended with remote-first UX, provider integrations, encrypted phone pairing and release-candidate verification
+- [**BabuşTV**](https://github.com/eyildirim82/babu-TV) — Samsung Tizen live-TV application derived from EN TV Player and substantially extended with remote-first UX, provider integrations and encrypted phone pairing; release-candidate verification is in place while physical-TV acceptance remains pending
 - [**Distributor Finance Database Project**](https://github.com/eyildirim82/DatabaseProject) — collaborative CSE3055 academic project using SQL Server and ASP.NET Core MVC to demonstrate relational modeling, integrity constraints and application-level data access
 - [**Adaptive Superpowers**](https://github.com/eyildirim82/adaptive-superpowers) — risk-adaptive fork of Superpowers for coding-agent workflows, adding execution profiles, verification requirements and authorization boundaries while keeping upstream attribution explicit
 
