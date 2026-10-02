@@ -42,4 +42,4 @@ Full-stack engineering, AI-assisted development, business process automation and
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/eyildirim82/)
+Open to junior/new-grad software engineering and full-stack opportunities. Connect with me on [LinkedIn](https://www.linkedin.com/in/eyildirim82/).
