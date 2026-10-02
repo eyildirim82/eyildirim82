@@ -1,15 +1,14 @@
 # Hi, I'm Erkan 👋
 
-Full-Stack Software Developer and Computer Engineering student at Marmara University.
+**Full-Stack Software Developer | Computer Engineering Student**
 
-I build full-stack software for real-world business operations, internal tools and member-facing platforms, with a focus on reliable AI-assisted development workflows.
+I build full-stack systems for business operations and member-facing workflows, with a focus on TypeScript/React, Node/PostgreSQL, external integrations, and verification-driven AI-assisted engineering.
 
 ## What I'm working on
 
-- 🏭 Business and inventory systems for industrial operations
-- ✈️ Member-facing platforms and operational workflows
-- 🤖 AI-assisted software development with verification and human approval gates
-- 🧠 LLM reliability and clinical hallucination detection research
+- Full-stack business and operational systems with TypeScript/React, Node and PostgreSQL
+- Member-facing workflows, external integrations and authorization-aware data flows
+- Verification-driven AI-assisted engineering, with a secondary research thread in LLM reliability and hallucination detection
 
 ## Selected work
 
@@ -35,10 +34,6 @@ Other private work includes secure PostgreSQL workflows, role-aware access, docu
 ## Tech
 
 **TypeScript · React · Next.js · Node.js · PostgreSQL · Supabase · Python · Docker**
-
-## Current interests
-
-Full-stack engineering, AI-assisted development, business process automation and practical AI systems.
 
 ## Connect
 
