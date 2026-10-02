@@ -33,7 +33,10 @@ Other private work includes secure PostgreSQL workflows, role-aware access, docu
 
 ## Tech
 
-**TypeScript · React · Next.js · Node.js · PostgreSQL · Supabase · Python · Docker**
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
+- **Backend & Data:** Node.js, Express, PostgreSQL, Prisma, Supabase
+- **Infrastructure & Integrations:** Docker, GitHub Actions, REST/SOAP integrations, row-level security and role-aware data access
+- **AI & Engineering Workflows:** Python, LLM evaluation/reliability, AI-assisted development, verification and human-approval gates
 
 ## Connect
 
