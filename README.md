@@ -25,12 +25,12 @@ I build full-stack software for real-world business operations, internal tools a
 
 ## Professional work
 
-Much of my business software work is private. Recent work includes:
+Much of my business software work is private. These sanitized case studies describe the engineering without exposing operational data:
 
-- inventory, invoicing and operational systems for industrial distribution
-- member-facing application and workflow platforms
-- secure workflows using PostgreSQL, row-level security, document storage and external service integrations
-- AI-assisted engineering workflows with automated verification and explicit human approval gates
+- [**Industrial Operations & Inventory Platform**](./projects/industrial-operations-platform.md) — inventory, purchasing, invoice integration, database-side business rules, concurrency control and operational reporting
+- [**Member Event Operations Platform**](./projects/member-event-operations-platform.md) — capacity-sensitive booking, waitlists, ticket distribution, modular architecture and layered automated verification
+
+Other private work includes secure PostgreSQL workflows, role-aware access, document/storage flows and external service integrations.
 
 ## Tech
 
